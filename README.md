@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amdelt24
+- 👀 I’m interested in sleeping
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on my personal projects
+- 📫 How to reach me: email or letter from a pigeon
